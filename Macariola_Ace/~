@@ -1,0 +1,39 @@
+<?php
+# Create a PHP function using WHILE loop that will sum all even numbers from 0-10
+
+$SumEven = 0;
+$num  = 1;
+
+while ($num <=10) {
+	if(num % 2 == 0) {
+		$SumEven += num;
+	}
+	$num ++;
+}
+
+echo $SumEven
+
+
+
+
+
+# Creata a PHP function using DO WHILE that will display odd numbers from 0-10
+
+
+# Create a PHP function using FOR that will display 10 numbers in fibonacci sequence
+
+
+# Arrays
+# Display the value that has the most number of occurence in case of tie arrange in alphabetical order
+# ["Marvin","Marco","Marvin","Marco","Marco","Marvin","Christian"]
+
+
+# Sort the array in ascending order, if the value is odd, round it in nearest 10ths
+# [9863,7127,2020,80,131,55,100]
+
+
+# Display the item that is not repetitive
+# ['red','blue','black','red','blue','red','gold']
+
+
+?>
